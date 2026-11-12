@@ -1,0 +1,7 @@
+# 源码在工作流里 clone 到 repo/，不进构建上下文之外的东西
+repo/.git
+.git
+.github
+node_modules
+*.tar
+*.tar.gz
